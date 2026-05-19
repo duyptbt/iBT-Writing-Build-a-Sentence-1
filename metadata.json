@@ -1,0 +1,8 @@
+{
+  "name": "TOEFL iBT Writing: Build a Sentence",
+  "description": "A focused practice application for the TOEFL iBT Writing section, specializing in building grammatical sentences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
